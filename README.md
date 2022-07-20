@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepreddyvv&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepreddyvv" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Autonomous Vehicle Driving Assistance System<br><br>📫 How to reach me venuthurlapradeep@pesu.pes.edu<br><br>📄 Know about my experiences https://bit.ly/3Of8KyN<br><br>⚡ Fun fact I think I am funny
+🔭 I’m currently working on Autonomous Vehicle Driving Assistance System<br><br>📫 How to reach me venuthurlapradeep@pesu.pes.edu<br><br>📄 Know about my experiences https://bit.ly/3PITLOs<br><br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
