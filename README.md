@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm V Venkata Pradeep Reddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepreddyvv&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepreddyvv" /> </p>
 
-# 💫 About Me:
-🔭 I’m currently working on Autonomous Vehicle Driving Assistance System<br><br>📫 How to reach me venuthurlapradeep@pesu.pes.edu<br><br>📄 Here is my resume: https://bit.ly/3V9jnHD<br><br>⚡ Fun fact I think I am funny
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PradeepReddyVV) 
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?&logo=LeetCode&logoColor=black)](https://leetcode.com/Pradeep_RVV) 
